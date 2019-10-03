@@ -1,7 +1,6 @@
 using Amqp;
 using Amqp.Framing;
 using AmqpNetLiteRpcCore;
-using Serilog;
 using Serilog.Core;
 using Serilog.Events;
 using Serilog.Formatting;
