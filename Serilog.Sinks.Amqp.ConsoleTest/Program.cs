@@ -21,7 +21,7 @@ namespace Serilog.Sinks.Amqp.ConsoleTest
             try
             {
                 Console.WriteLine("Hello World!");
-                Address _address = new Address(host: "newfoundland.8thsensus.com", port: 5672, user: "admin", password: "admin", scheme: "amqp");
+                Address _address = new Address(host: "", port: 5672, user: "", password: "", scheme: "amqp");
                 ConnectionFactory _connFactory = new ConnectionFactory();
                 //_connFactory.SSL.ClientCertificates 
                 Connection _connection = await _connFactory.CreateAsync(_address);
