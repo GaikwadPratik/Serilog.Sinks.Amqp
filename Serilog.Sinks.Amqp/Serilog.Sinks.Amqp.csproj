@@ -5,14 +5,14 @@
     <LangVersion>7.3</LangVersion>
     <Authors>Pratik Gaikwad</Authors>
     <Description />
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <RepositoryUrl>https://github.com/GaikwadPratik/Serilog.Sinks.Amqp.git</RepositoryUrl>
     <PackageTags>Serilog,serilog-amqp,AMQPNetLiteRpc,AMQPNetLite,Rpc,amqp10,amqp10-rpc,amqp1.0,amqp-1-0,amqp</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="AmqpNetLite" Version="2.2.0" />
-    <PackageReference Include="AmqpNetLiteRpcCore" Version="1.0.8" />
+    <PackageReference Include="AmqpNetLiteRpcCore" Version="1.0.11" />
     <PackageReference Include="Serilog" Version="2.8.0" />
   </ItemGroup>
 
