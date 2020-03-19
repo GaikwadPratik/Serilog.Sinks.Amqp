@@ -8,6 +8,7 @@
     <Version>1.0.1</Version>
     <RepositoryUrl>https://github.com/GaikwadPratik/Serilog.Sinks.Amqp.git</RepositoryUrl>
     <PackageTags>Serilog,serilog-amqp,AMQPNetLiteRpc,AMQPNetLite,Rpc,amqp10,amqp10-rpc,amqp1.0,amqp-1-0,amqp</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
